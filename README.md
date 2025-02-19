@@ -4,6 +4,8 @@
 
 ## You can always submit your ideas to add in here
 
+## ⭐ If you liked this repo, give us a star ⭐
+
 ## DON'T PING ANY CONTRIBUTORS OF THIS PROJECT.
 
 Be kind, we are all learning here!
