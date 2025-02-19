@@ -306,7 +306,7 @@ Each possible right corresponds to a number :
 - 2: write
 - 1: execute
 
-You can combine them to give multiple accessibility like ``6 = 4 + 2`` is ``write + execute``.
+You can combine them to give multiple accessibility like ``6 = 4 + 2`` is ``write + read``.
 
 Example using number notation :
 
