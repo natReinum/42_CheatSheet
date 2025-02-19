@@ -302,9 +302,9 @@ Number notation is a combination of three numbers :
 
 Each possible right corresponds to a number :
 - 0: none
-- 1: read
+- 4: read
 - 2: write
-- 4: execute
+- 1: execute
 
 You can combine them to give multiple accessibility like ``6 = 4 + 2`` is ``write + execute``.
 
