@@ -798,7 +798,7 @@ close to the level of vscode.
 
 It is technically free for us. Create a GitHub account (you will need it anyway in the future) then apply for the GitHub student pack ([link here](https://meta.intra.42.fr/articles/read-the-french-manual-of-42paris)) then connect it to your JetBrains account. It's free as long as you are a student.
 
-Test it if you want, if you like it, then customize it to your licking!
+Test it if you want, if you like it, then customize it to your liking!
 
 ![Clion exemple](ressources/clion.png)
 
