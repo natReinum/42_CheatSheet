@@ -16,6 +16,7 @@ The Intra of the student you will correct appears 15 minutes before the evaluati
 
 ### What to do during the evaluation :
 - connect yourself on your Intra profile to start (``Evaluations`` tab, a link will be present to correct the current project), use a private tab on the browser to avoid logging out the student
+- git clone from the link given at the start of the evaluation (``git clone link dir_name``)
 - the subject PDF file will be at the start of the link you opened
 - read the correction page one line after the other, it will guide you threw the correction, feel free to ask personal questions, you need to understand the logic behind the student mind
 - if the Norminette gives one error, go to the bottom of the page and click on the corresponding flag, the evaluation ends here
@@ -33,6 +34,7 @@ The Intra of the student you will correct appears 15 minutes before the evaluati
 ### ❌ Forbidden in evaluations ❌
 - any violence will get you expelled
 - you have no rights to bully or put the other student in an uncomfortable place; your questions should only concern the subject
+- you **HAVE** to correct the version you got from the ``git clone`` any other local version has to be ignored
 - negotiating the grade
 - correcting someone on his own personal computer
 - change the code, you can create a main and compile, but you are not allowed to change any file content or name in the project

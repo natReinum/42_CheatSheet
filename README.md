@@ -1,4 +1,4 @@
-# 42_CS v2.0
+# 42_CS v2.1
 
 ## This project exists for the sole purpose of giving you enough tools to enjoy the 42 Experience while not worrying about being lost mid-journey.
 
